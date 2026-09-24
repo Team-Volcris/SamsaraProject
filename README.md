@@ -2,7 +2,7 @@
 
 A self-recharging autonomous quadcopter; a project of the Robotics and Automation Society (RAS) at the University of Pittsburgh.
 
-**The submitted proposal:** [`Samsara-Proposal.pdf`](Samsara-Proposal.pdf)
+**The submitted proposal:** [`SamsaraProposal.pdf`](SamsaraProposal.pdf)
 
 **Team:** Aadit Panse (Project Lead), Vybhav Reddy, Thomas Grubb, Mark Migaly, Mark Barbrak
 
